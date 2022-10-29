@@ -1,0 +1,18 @@
+body {
+    background-image: url("../img/fondo.jpg") ;
+    background-repeat: no-repeat;
+    background-position: top;
+    }
+    
+    .texto{
+        color: rgb(255, 255, 255);
+        font-family: 'Livvic', sans-serif;
+    }
+    
+    .titulo{
+        color: rgb(134, 26, 26);
+        font-family: 'Anton', sans-serif;
+    }
+#pasar-a-otra-paguina{
+    color: white;
+}
